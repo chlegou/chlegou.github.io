@@ -1,0 +1,8 @@
+#gamezop
+google.com, pub-3452022011371122, RESELLER, f08c47fec0942fa0
+google.com, pub-6968738577620513, RESELLER, f08c47fec0942fa0
+google.com, pub-2506150943914125, RESELLER, f08c47fec0942fa0
+pubmatic.com, 157906, RESELLER, 5d62403b186f2ace
+indexexchange.com, 189901, RESELLER
+facebook.com, 210546042788585, RESELLER, c3e20eee3f780d68
+facebook.com, 444786729708286, RESELLER, c3e20eee3f780d68
